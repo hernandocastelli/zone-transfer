@@ -40,6 +40,8 @@ Replace example.com with the domain you want to test.
 
 The script can generate a CSV file for ingest into another tool in your recognition workflow or generate an HTML file and plot the information with [Cytoscape](https://github.com/cytoscape/cytoscape.js) as a graph.
 
+![Cytoscape](https://github.com/hernandocastelli/zone-transfer/assets/150078766/a3e826f1-2833-4746-a22a-ea158accaef6)
+
 ## License
 
 This project is licensed under the MIT License.
